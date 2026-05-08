@@ -30,7 +30,7 @@ nav ul li{
     display :flex;
 }
 .container{
-   background-image: url("bg.jpg");
+   background-image: url("722550-new-all-black-backgrounds-1920x1200-download-free.jpg");
    background-size: cover;
    background-position: center;
    background-repeat: no-repeat;
@@ -41,6 +41,7 @@ nav ul li{
    width: 80%;
    border-radius: 18px;
    padding: 32px;
+   box-sizing:content-box;
 }
 .bottom{
     background-color:#000000;
@@ -90,6 +91,7 @@ color: #ececec;
     height: fit-content;
     transition: opacity 0.4s ease-in;
     opacity: 0;
+    border: none;
 }
 .song{
     font-size: larger;
